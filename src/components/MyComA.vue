@@ -1,3 +1,7 @@
 <template>
-   <h3>THIS IS A</h3>
+  <div></div>
 </template>
+
+<script setup></script>
+
+<style lang="scss"></style>
